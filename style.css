@@ -1,3 +1,6 @@
+body{
+    background-color: aqua;
+}
 .inicio{
     background-color: aqua;
     text-align: center;
@@ -15,11 +18,30 @@
     justify-content: space-evenly;
 }
 
-.iconos li img{
+.iconos img{
     margin: 20rem;
     padding: 5px;
     width: 60px;
     height: 60px;
     text-align: center;
     line-height: 50px;
+}
+/* Parte de los textos*/
+h3{
+    font-family: cursive;
+}
+.space{
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text{
+    display:flex;
+    justify-content: space-between;
+    flex-basis: 25%;
+    text-align: center;
+    color:white;
+}
+.text p{
+    font-family: sans-serif;
 }
