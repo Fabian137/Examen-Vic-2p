@@ -1,0 +1,11 @@
+.inicio{
+    background-color: aqua;
+    text-align: center;
+}
+.inicio h1{
+    font-size: 4rem;
+}
+.inicio h2{
+    font-weight: lighter;
+    font-family: 'Courier New', Courier, monospace;
+}
