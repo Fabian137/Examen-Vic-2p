@@ -1,0 +1,14 @@
+.iconos{
+    padding:20rem;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.iconos li img{
+    margin: 20rem;
+    padding: 5px;
+    width: 60px;
+    height: 60px;
+    text-align: center;
+    line-height: 50px;
+}
